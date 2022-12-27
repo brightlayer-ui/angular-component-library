@@ -1,3 +1,5 @@
+> This repo has been archived and moved [here](https://github.com/etn-ccis/blui-angular-component-library).
+
 # Brightlayer UI Angular Components
 
 [![](https://img.shields.io/circleci/project/github/brightlayer-ui/angular-component-library/master.svg?style=flat)](https://circleci.com/gh/brightlayer-ui/angular-component-library/tree/master)
